@@ -1,0 +1,10 @@
+{
+  "ID": 2,
+  "Name": "carta1",
+  "Coste_mana": 7,
+  "Color": "incoloro",
+  "Linea_tipo": "tierra",
+  "Rareza": "comun",
+  "Reglas": "reglas1",
+  "Coste": 40
+}
